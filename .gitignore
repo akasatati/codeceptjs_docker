@@ -1,0 +1,6 @@
+.env
+/reports/**
+/src/reports/**
+/conf/**
+!/conf/*.example.js
+!.gitkeep
